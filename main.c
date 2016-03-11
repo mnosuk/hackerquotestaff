@@ -10,8 +10,13 @@
 #include <string.h>
 
 void primeProblem(int n)
-{
-    printf("%d", n);
+{   
+    prime_count = 2;
+    while(n >= prime_count) {
+            if (n % prime_count == 0) {
+               n /= prime_count;
+            }         
+    }
 }
 
 void loadProblem(char load_input[300], int n)
