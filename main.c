@@ -45,10 +45,17 @@ printf("POOH");
     loadProblem(load_input, n_input);
 
 
-    printf("my name is RENZ");
 
     printf("my name is RENZ");
 
+    printf("my name is RENZ");
+
+    printf("my name is NOTE");
+
+
+
+
+    printf("my name is RENZ");
     printf("my name is NOTE");
 
     return 0;
