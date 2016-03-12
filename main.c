@@ -39,6 +39,7 @@ int main(int argc, const char * argv[]) {
     printf("fasai eiei");
     
     loadProblem(load_input, n_input);
+    printf("Hello cpe\n");
     
     return 0;
 }
