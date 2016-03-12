@@ -45,5 +45,7 @@ int main(int argc, const char * argv[]) {
     printf("Hello OK renz");
 
     printf("Hello cpe");
+
+    printf("Hello get");
    return 0;
 }
