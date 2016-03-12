@@ -24,7 +24,7 @@ void loadProblem(char load_input[300], int n)
     if(!strcmp(load_input, "PRIME")) {
         primeProblem(n);
     }
-    //bla bla bla
+    //bla bla bla asdasdasdasd
 }
 
 int main(int argc, const char * argv[]) {
