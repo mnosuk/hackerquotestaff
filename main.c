@@ -41,5 +41,9 @@ int main(int argc, const char * argv[]) {
 
     loadProblem(load_input, n_input);
 
+
+    printf("my name is RENZ");
+
+
     return 0;
 }
