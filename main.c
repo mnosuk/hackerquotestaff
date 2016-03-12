@@ -1,4 +1,4 @@
-//
+﻿//
 //  main.c
 //  HackerQuoteStaff
 //
@@ -30,7 +30,9 @@ void loadProblem(char load_input[300], int n)
 int main(int argc, const char * argv[]) {
     char load_input[300];
     int n_input;
-    
+
+printf("POOH");    
+
     printf("load:");
     scanf("%s", load_input);
     
