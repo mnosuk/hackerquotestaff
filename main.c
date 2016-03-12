@@ -24,6 +24,7 @@ void loadProblem(char load_input[300], int n)
     if(!strcmp(load_input, "PRIME")) {
         primeProblem(n);
     }
+
     //bla bla bla
 }
 
@@ -39,7 +40,10 @@ int main(int argc, const char * argv[]) {
 
     loadProblem(load_input, n_input);
 
-    printf("Hello\n");
 
-    return 0;
+    printf("Hello\n");
+    printf("Hello OK renz");
+
+    printf("Hello cpe");
+   return 0;
 }
