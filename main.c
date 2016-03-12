@@ -1,4 +1,4 @@
-//
+﻿//
 //  main.c
 //  HackerQuoteStaff
 //
@@ -33,6 +33,9 @@ int main(int argc, const char * argv[]) {
     char load_input[300];
     int n_input;
 
+
+printf("POOH");
+
     printf("load:");
     scanf("%s", load_input);
 
@@ -44,6 +47,9 @@ int main(int argc, const char * argv[]) {
 
     printf("my name is RENZ");
 
+    printf("my name is RENZ");
+
+    printf("my name is NOTE");
 
     return 0;
 }
