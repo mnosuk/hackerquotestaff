@@ -10,12 +10,12 @@
 #include <string.h>
 
 void primeProblem(int n)
-{   
+{
     prime_count = 2;
     while(n >= prime_count) {
             if (n % prime_count == 0) {
                n /= prime_count;
-            }         
+            }
     }
 }
 
@@ -30,14 +30,16 @@ void loadProblem(char load_input[300], int n)
 int main(int argc, const char * argv[]) {
     char load_input[300];
     int n_input;
-    
+
     printf("load:");
     scanf("%s", load_input);
-    
+
     printf("n:");
     scanf("%d", &n_input);
-    
+
     loadProblem(load_input, n_input);
-    
+
+    printf("test printing");
+
     return 0;
 }
