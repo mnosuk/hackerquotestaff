@@ -39,5 +39,7 @@ int main(int argc, const char * argv[]) {
     
     loadProblem(load_input, n_input);
     
+	printf("best");
+
     return 0;
 }
