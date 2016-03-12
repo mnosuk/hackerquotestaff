@@ -34,10 +34,12 @@ int main(int argc, const char * argv[]) {
     printf("load:");
     scanf("%s", load_input);
     
-    printf("n: ");
+    printf("n:");
     scanf("%d", &n_input);
     
     loadProblem(load_input, n_input);
     
+    printf("my name is RENZ");
+
     return 0;
 }
