@@ -11,7 +11,7 @@
 
 void primeProblem(int n)
 {   
-    prime_count = 2;
+    int prime_count = 2;
     while(n >= prime_count) {
             if (n % prime_count == 0) {
                n /= prime_count;
