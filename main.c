@@ -37,6 +37,7 @@ int main(int argc, const char * argv[]) {
     
     printf("n:");
     scanf("%d", &n_input);
+    printf("fasai eiei");
     
     loadProblem(load_input, n_input);
 
