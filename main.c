@@ -38,6 +38,8 @@ int main(int argc, const char * argv[]) {
     scanf("%d", &n_input);
     
     loadProblem(load_input, n_input);
+
+    printf("Hello OK renz");
     
     return 0;
 }
