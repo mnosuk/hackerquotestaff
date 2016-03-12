@@ -28,6 +28,8 @@ void loadProblem(char load_input[300], int n)
 }
 
 int main(int argc, const char * argv[]) {
+
+    printf("My name is Nove\n");
     char load_input[300];
     int n_input;
     
