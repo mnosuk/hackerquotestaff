@@ -30,7 +30,7 @@ void loadProblem(char load_input[300], int n)
 int main(int argc, const char * argv[]) {
     char load_input[300];
     int n_input;
-    
+    printf("Chalahedchala\n");
     printf("load:");
     scanf("%s", load_input);
     
