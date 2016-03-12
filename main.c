@@ -15,6 +15,7 @@ void primeProblem(int n)
     while(n >= prime_count) {
             if (n % prime_count == 0) {
                n /= prime_count;
+               printf("Zootopia");
             }         
     }
 }
