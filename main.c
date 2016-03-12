@@ -42,7 +42,12 @@ printf("POOH");
     
     loadProblem(load_input, n_input);
     
+<<<<<<< HEAD
     printf("my name is RENZ");
 
+=======
+    printf("my name is NOTE");
+    
+>>>>>>> feature/feature_note
     return 0;
 }
